@@ -152,7 +152,7 @@ show.
 **Absolute** uncertainty is the interval within which the true value can be expected to lie e.g.
 the temperature is $20 °C \pm 2 °C$. Should always be expressed with an appropriate unit.
 
-**Fractional uncertainty** is given by $\frac{\text{absolute uncertainty}{\text{measured value}}$
+**Fractional uncertainty** is given by $\frac{\textnormal{Absolute Uncertainty}}{\textnormal{Quantity}}$
 
 **Percentage uncertainty** is given by $\text{fractional uncertainty} \times 100%$.
 
@@ -280,19 +280,19 @@ A **baryon** is a combination of three quarks or three antiquarks
 |Anti-particle|Quark Content|
 |---|---|
 |$\bar{p}$|$\bar{u} \bar{u} \bar{d}$|
-|\bar{n}|$\bar{u} \bar{d} \bar{d}$|
+|$\bar{n}$|$\bar{u} \bar{d} \bar{d}$|
 
 #### Mesons
 |Meson|Quark Content|
 |:---:|:---:|
-|$\pi^(+)|$u \bar{d}$|
-|$\pi^(-)$|$\bar{u} d$|
-|$\pi^(0)$ |$u \bar{u}$|
-|$\pi^(0)$|$d \bar{d}$|
-|$K^(+)$ |$u \bar{s}$|
-|$K^(-)$ |$\bar{u} s$|
-|$K^(0)$ |$d \bar{s}$|
-|$\bar{K}^(0)$|$\bar{d} s$|
+|$\pi^{+}|$u \bar{d}$|
+|$\pi^{-}$|$\bar{u} d$|
+|$\pi^{0}$ |$u \bar{u}$|
+|$\pi^{0}$|$d \bar{d}$|
+|$K^{+}$ |$u \bar{s}$|
+|$K^{-}$ |$\bar{u} s$|
+|$K^{0}$ |$d \bar{s}$|
+|$\bar{K}^{0}$|$\bar{d} s$|
 
 ### Hadrons 2
 - All baryons have Baryon number = 1, all antibaryons have Baryon number = - 1 and 
