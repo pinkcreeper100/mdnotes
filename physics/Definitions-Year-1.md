@@ -48,6 +48,9 @@
     - [UK mains voltage](#uk-mains-voltage)
     - [Power and energy transferred](#power-and-energy-transferred)
     - [Ohmic conductors](#ohmic-conductors)
+    - [Kirchhoff's Laws](#kirchhoffs-laws)
+      - [First Law](#first-law)
+      - [Second law](#second-law)
 <!--toc:end-->
 
 ## Mechanics
@@ -342,3 +345,11 @@ energy transformed by a component, E = VI × t
 ### Ohmic conductors
 Anything which conducts electricity and obeys Ohm's law is called an ohmic
 conductor.
+
+### Kirchhoff's Laws
+
+#### First Law
+At any junction in a circuit the sum of the current flowing into the junction is equal to the sum of the current flowing away from it.
+
+#### Second Law
+In any complete "loop" of a circuit the sum of p.d.'s equals the source p.d.
