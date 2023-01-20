@@ -62,7 +62,7 @@
 - **The centre of mass is the point through which all the weight of an object is deemed to act.**
 
 ### Moments
-- A moment is defined as a force, F, multiplied by the perpendicular distance, d, from the *line of action* of the force to the pivot
+- A moment is defined as a force, $F$, multiplied by the perpendicular distance, $d$, from the *line of action* of the force to the pivot
 
 ### The Principle of Moments
 For a system to be in **equilibrium**, the **total clockwise moments**
@@ -102,10 +102,10 @@ Work Done is Energy transferred by means of a force
 The **impulse** of a force is defined as the force x the time for which the force 
 acts and is equal to the change in momentum of the object in response to the force.
 
-*$F Δt = Δ(mv)$*
+$F Δt = Δ(mv)$
 
 ### Force-time graphs
-The area under a force-time graph = *$F * t$* = change of momentum or impulse of the force.
+The area under a force-time graph = $F * t$ = change of momentum or impulse of the force.
 
 ### Elastic and Inelastic Collisions
 An **elastic** collision is one where the is **no loss of kinetic energy**.
@@ -150,11 +150,11 @@ obtained.
 show.
 
 **Absolute** uncertainty is the interval within which the true value can be expected to lie e.g.
-the temperature is 20 °C ± 2 °C. Should always be expressed with an appropriate unit.
+the temperature is $20 °C \pm 2 °C$. Should always be expressed with an appropriate unit.
 
-**Fractional uncertainty** is given by absolute uncertainty ÷ measured value
+**Fractional uncertainty** is given by $\frac{\text{absolute uncertainty}{\text{measured value}}$
 
-**Percentage uncertainty** is given by (fractional uncertainty) × 100%.
+**Percentage uncertainty** is given by $\text{fractional uncertainty} \times 100%$.
 
 ## Materials
 
@@ -183,15 +183,15 @@ materials tend to be very strong under compression but weak under tension. E.g. 
 glass
 
 ### Strain Energy
-E = 0.5 k ΔL^2
+$E = 0.5 k ΔL^2$
 
-E = F L ÷ A e
+$E = \frac{F L}{A e}$
 
 ## Particles
 
 ### Nuclear Atomic Model
-The size of a nucleus is about 1 × 10^(-14)
-The diameter of the atom is about 1 × 10^(-10)
+The size of a nucleus is about $1 \times 10^(-14)$
+The diameter of the atom is about $1 \times 10^(-10)$
 
 ### Isotopes
 Isotopes of an element have the same number of protons
@@ -250,13 +250,13 @@ with the neutrino
     **Acts on**: All charged particles
 
 - **Strong interaction**
-    **Range**: 0 - 0.5 fm repulsive
-               0.5 - 3 or 4 fm attractive
+    **Range**: $0 - 0.5$ fm repulsive
+               $0.5 - 3$ or $4$ fm attractive
     **Acts on**: Quarks and hadrons
     **Also known as**: strong nuclear force
 
 - **Weak interaction**
-    **Range**: ×10^(-18)
+    **Range**: $\times 10^(-18)$
     **Acts on**: Quarks and leptons
 
 - **Gravity**
@@ -274,25 +274,25 @@ A **baryon** is a combination of three quarks or three antiquarks
 #### Baryons
 |Particle|Quark Content|
 |---|---|
-|p|uud|
-|n|udd|
+|$p$|$uud$|
+|$n$|$udd$|
 
 |Anti-particle|Quark Content|
 |---|---|
-|p-bar|u-bar u-bar d-bar|
-|n-bar|u-bar d-bar d-bar|
+|$\bar{p}$|$\bar{u} \bar{u} \bar{d}$|
+|\bar{n}|$\bar{u} \bar{d} \bar{d}$|
 
 #### Mesons
 |Meson|Quark Content|
 |:---:|:---:|
-|π+ |u d-bar|
-|π- |u-bar d|
-|π0 |u u-bar|
-|π0 |d d-bar|
-|K+ |u s-bar|
-|K- |u-bar s|
-|K0 |d s-bar|
-|K-bar 0|d-bar s|
+|$\pi^(+)|$u \bar{d}$|
+|$\pi^(-)$|$\bar{u} d$|
+|$\pi^(0)$ |$u \bar{u}$|
+|$\pi^(0)$|$d \bar{d}$|
+|$K^(+)$ |$u \bar{s}$|
+|$K^(-)$ |$\bar{u} s$|
+|$K^(0)$ |$d \bar{s}$|
+|$\bar{K}^(0)$|$\bar{d} s$|
 
 ### Hadrons 2
 - All baryons have Baryon number = 1, all antibaryons have Baryon number = - 1 and 
@@ -325,7 +325,7 @@ is actually in the opposite direction to the electron flow!
 ### Ohm's law
 The current flowing through a metallic conductor is
 Directly proportional to the potential difference
-[p.D] applied across it (at constant temperature)
+(p.D) applied across it (at constant temperature)
 
 **The potential difference required across a component per
 amp of current flowing through it**
@@ -340,7 +340,7 @@ when one coulomb of charge is moved between the two points.
 ### Power and energy transferred
 Energy transferred = Power × time
 
-energy transformed by a component, E = VI × t
+energy transformed by a component, $E = VI \times t$
 
 ### Ohmic conductors
 Anything which conducts electricity and obeys Ohm's law is called an ohmic
