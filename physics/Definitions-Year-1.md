@@ -190,8 +190,8 @@ $E = \frac{F L}{A e}$
 ## Particles
 
 ### Nuclear Atomic Model
-The size of a nucleus is about $1 \times 10^(-14)$
-The diameter of the atom is about $1 \times 10^(-10)$
+The size of a nucleus is about $1 \times 10^{-14}$
+The diameter of the atom is about $1 \times 10^{-10}$
 
 ### Isotopes
 Isotopes of an element have the same number of protons
@@ -256,7 +256,7 @@ with the neutrino
     **Also known as**: strong nuclear force
 
 - **Weak interaction**
-    **Range**: $\times 10^(-18)$
+    **Range**: $\times 10^{-18}$
     **Acts on**: Quarks and leptons
 
 - **Gravity**
