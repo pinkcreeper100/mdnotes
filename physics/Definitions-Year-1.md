@@ -246,22 +246,22 @@ with the neutrino
 ### Fundamental forces
 
 - **Electromagnetic force**
-    **Range**: Infinite
-    **Acts on**: All charged particles
+   - **Range**: Infinite
+   - **Acts on**: All charged particles
 
 - **Strong interaction**
-    **Range**: $0 - 0.5$ fm repulsive
+   - **Range**: $0 - 0.5$ fm repulsive
                $0.5 - 3$ or $4$ fm attractive
-    **Acts on**: Quarks and hadrons
-    **Also known as**: strong nuclear force
+   - **Acts on**: Quarks and hadrons
+   - **Also known as**: strong nuclear force
 
 - **Weak interaction**
-    **Range**: $\times 10^{-18}$
-    **Acts on**: Quarks and leptons
+   - **Range**: $\times 10^{-18}$
+   - **Acts on**: Quarks and leptons
 
 - **Gravity**
-    **Range**: Infinite
-    **Acts on**: All particles
+   - **Range**: Infinite
+   - **Acts on**: All particles
 
 ### Quarks
 Quarks are fundamental particles which combine to make **hadrons**. Hadrons are particles
@@ -285,7 +285,7 @@ A **baryon** is a combination of three quarks or three antiquarks
 #### Mesons
 |Meson|Quark Content|
 |:---:|:---:|
-|$\pi^{+}|$u \bar{d}$|
+|$\pi^{+}$|$u \bar{d}$|
 |$\pi^{-}$|$\bar{u} d$|
 |$\pi^{0}$ |$u \bar{u}$|
 |$\pi^{0}$|$d \bar{d}$|
