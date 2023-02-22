@@ -32,4 +32,4 @@ Instead of chucking the paper in the bin, why not put it in the recycle bin inst
 Probably one of the most important things about life is of course, food.
 
 Instead of going to a large chain to eat, you could go to your local food outlet.
-They're more likely to have locally-sourced ingredients than, say, Subway.
+They're more likely to have ingredients from local suppliers than, say, Subway.
