@@ -50,44 +50,52 @@
     - [Ohmic conductors](#ohmic-conductors)
     - [Kirchhoff's Laws](#kirchhoffs-laws)
       - [First Law](#first-law)
-      - [Second law](#second-law)
+      - [Second Law](#second-law)
 <!--toc:end-->
 
 ## Mechanics
 
 ### Forces in equilibrium
+
 - If it is possible to draw a closed polygon (of three or more forces) then the system of forces must be in equilibrium
 
 ### Centre of mass
+
 - **The centre of mass is the point through which all the weight of an object is deemed to act.**
 
 ### Moments
+
 - A moment is defined as a force, $F$, multiplied by the perpendicular distance, $d$, from the *line of action* of the force to the pivot
 
 ### The Principle of Moments
+
 For a system to be in **equilibrium**, the **total clockwise moments**
 about a point must equal the **total anticlockwise moments**
 about the same point.
 
 ### Rules for equilibrium
+
 **For a system or body to be in equilibrium,**
 
 The resultant force must be zero [If there are three forces, the sum must form a closed triangle]
 The resultant moment must be zero [The total of the moments about any point must equal zero]
 
 ### Couples
+
 **A couple is defined as being a pair of equal and opposite forces acting on a body, but not along the same line of action.**
 
 ### Motion Graphs
+
 - **Displacement** is distance from a fixed point **in a given direction**. (Vector quantity)
 - **Velocity** is rate of change of displacement. (Vector quantity)
 - **Acceleration** is the rate of change of velocity. (Vector quantity)
 RATE means the change in something each second
 
 ### Newton's Laws of Motion
+
 **Newton’s 1st Law of Motion** states that if no **resultant** force acts on an
 object, then it will either remain at rest, or continue moving with
-constant velocity. 
+constant velocity.
 
 **Newton’s 2nd Law of Motion** is the equation $F = ma$
 Force is measured in newtons (N), mass in kg and acceleration in $ms^{-2}$.
@@ -96,23 +104,27 @@ Newton’s 3rd Law of Motion is that when two objects interact, they exert an eq
 opposite force on each other.
 
 ### Work Done
+
 Work Done is Energy transferred by means of a force
 
 ### Newton's Second Law revisited
-The **impulse** of a force is defined as the force x the time for which the force 
+
+The **impulse** of a force is defined as the force x the time for which the force
 acts and is equal to the change in momentum of the object in response to the force.
 
 $F Δt = Δ(mv)$
 
 ### Force-time graphs
+
 The area under a force-time graph = $F * t$ = change of momentum or impulse of the force.
 
 ### Elastic and Inelastic Collisions
+
 An **elastic** collision is one where the is **no loss of kinetic energy**.
 Total kinetic energy before the collision = total kinetic energy before the collision.
 
 An **inelastic** collision is one where there is some loss of kinetic energy.
-Momentum will be conserved, as always, but **some of the kinetic energy 
+Momentum will be conserved, as always, but **some of the kinetic energy
 has been converted to other forms, usually heat.
 
 In a **totally inelastic** collision, the colliding objects stick together after colliding.
@@ -120,6 +132,7 @@ In a **totally inelastic** collision, the colliding objects stick together after
 ## Practical Skills
 
 ### Types of error in measurements
+
 **Random errors** are caused by unpredictable effects, such as small amounts of friction,
 thermal vibrations, draughts, and especially human judgement and reaction times.
 Random errors are (as the name suggests) always different when measurements are
@@ -133,6 +146,7 @@ experiment to an extent. They are often difficult to spot, but can sometimes be 
 looking at the intercept of a gradient
 
 ### Terms used in connection with experiments and experimental error
+
 **Precision** is the extent to which measurements agree with each other - i.e. the lack of
 significant variation in readings.
 
@@ -159,11 +173,13 @@ the temperature is $20 °C \pm 2 °C$. Should always be expressed with an approp
 ## Materials
 
 ### Hooke's Law
+
 The extension produced by a force in a wire or spring is
 directly proportional to the force applied, up to the limit of
 proportionality.
 
 ### Material Properties
+
 **Elastic behaviour** is when a sample that has been deformed by a force returns to its original shape and size
 when the force causing the deformation is removed.
 
@@ -183,6 +199,7 @@ materials tend to be very strong under compression but weak under tension. E.g. 
 glass
 
 ### Strain Energy
+
 $E = 0.5 k ΔL^2$
 
 $E = \frac{F L}{A e}$
@@ -190,46 +207,55 @@ $E = \frac{F L}{A e}$
 ## Particles
 
 ### Nuclear Atomic Model
+
 The size of a nucleus is about $1 \times 10^{-14}$
 The diameter of the atom is about $1 \times 10^{-10}$
 
 ### Isotopes
+
 Isotopes of an element have the same number of protons
 but a different number of neutrons and therefore different
 nucleon number.
 
 ### Energy and Mass
+
 1 electron volt is the Kinetic Energy acquired by an electron when accelerated by a
 potential difference 1 Volt.
 
 ### Particles and Antiparticles
+
 Antiparticles form antimatter.
 
 - A particle has the same mass as its antiparticle.
 - A particle and its antiparticle have equal and opposite charge.
 
-The neutron, when not inside the nucleus, is unstable and will decay to a proton 
+The neutron, when not inside the nucleus, is unstable and will decay to a proton
 in about 10 minutes.
 
 ### Particle-Antiparticle Annihilation
+
 This is the conversion of the mass of a particle and its antiparticle to energy in the
 form of a pair of photons of EM radiation.
 
 ### Pair Production
+
 This is the process in which a photon of EM radiation ceases to exist, creating a
 particle and its antiparticle pair in its place.
 
 ### Neutrinos
+
 The neutrino was originally hypothesised because energy did not appear to be conserved
 during beta decay
 
 ### Radioactive Decay
 
 #### alpha decay
+
 Only happens in large, unstable nuclei. The nucleus ejects 2 protons and 2
 neutrons.
 
 #### beta-minus decay
+
 A nucleus with too many neutrons for its number of protons can undergo
 beta-minus decay to improve its p to n ratio.
 A neutron in the nucleus changes into a proton, an electron and an anti-
@@ -237,6 +263,7 @@ neutrino. The beta-minus particle is the electron which is "flung out" of the nu
 together with the anti-neutrino
 
 #### beta-plus decay
+
 A nucleus with too few neutrons for its number of protons can undergo beta-
 plus decay to improve its p to n ratio.
 A proton in the nucleus changes into a neutron, a positron and a neutrino.
@@ -246,32 +273,35 @@ with the neutrino
 ### Fundamental forces
 
 - **Electromagnetic force**
-   - **Range**: Infinite
-   - **Acts on**: All charged particles
+  - **Range**: Infinite
+  - **Acts on**: All charged particles
 
 - **Strong interaction**
-   - **Range**: $0 - 0.5$ fm repulsive
+  - **Range**: $0 - 0.5$ fm repulsive
                $0.5 - 3$ or $4$ fm attractive
-   - **Acts on**: Quarks and hadrons
-   - **Also known as**: strong nuclear force
+  - **Acts on**: Quarks and hadrons
+  - **Also known as**: strong nuclear force
 
 - **Weak interaction**
-   - **Range**: $\times 10^{-18}$
-   - **Acts on**: Quarks and leptons
+  - **Range**: $\times 10^{-18}$
+  - **Acts on**: Quarks and leptons
 
 - **Gravity**
-   - **Range**: Infinite
-   - **Acts on**: All particles
+  - **Range**: Infinite
+  - **Acts on**: All particles
 
 ### Quarks
+
 Quarks are fundamental particles which combine to make **hadrons**. Hadrons are particles
 which are subject to the strong nuclear force.
 
 ### Hadrons
+
 A **meson** is a combination of a quark and an antiquark
 A **baryon** is a combination of three quarks or three antiquarks
 
 #### Baryons
+
 |Particle|Quark Content|
 |---|---|
 |$p$|$uud$|
@@ -283,6 +313,7 @@ A **baryon** is a combination of three quarks or three antiquarks
 |$\bar{n}$|$\bar{u} \bar{d} \bar{d}$|
 
 #### Mesons
+
 |Meson|Quark Content|
 |:---:|:---:|
 |$\pi^{+}$|$u \bar{d}$|
@@ -295,14 +326,16 @@ A **baryon** is a combination of three quarks or three antiquarks
 |$\bar{K}^{0}$|$\bar{d} s$|
 
 ### Hadrons 2
-- All baryons have Baryon number = 1, all antibaryons have Baryon number = - 1 and 
+
+- All baryons have Baryon number = 1, all antibaryons have Baryon number = - 1 and
   all mesons, and anti-mesons have Baryon number = 0.
 - Particles and their antiparticles have equal and opposite values of strangeness.
 - The proton is the only baryon which is stable. All other baryons decay to protons,
   either directly or indirectly. Mesons decay, either directly or indirectly, into photons or
-  leptons. 
+  leptons.
 
 ### Allowed interactions
+
 - Total charge before = total charge after (Conservation of Charge)
 - Total baryon number before = total baryon number after (conservation of Baryon Number)
 - Total lepton number before = total lepton number after (conservation of lepton number)
@@ -317,12 +350,14 @@ is NOT always obeyed during weak interaction**
 ## Electricity
 
 ### Electron flow and conventional current
-When doing electrical examples remember that although electricity is often a 
-flow of electrons from the negative end of a battery to the positive end, 
-but current is defined as the flow of positive charge, so conventional current 
+
+When doing electrical examples remember that although electricity is often a
+flow of electrons from the negative end of a battery to the positive end,
+but current is defined as the flow of positive charge, so conventional current
 is actually in the opposite direction to the electron flow!
 
 ### Ohm's law
+
 The current flowing through a metallic conductor is
 Directly proportional to the potential difference
 (p.D) applied across it (at constant temperature)
@@ -331,25 +366,31 @@ Directly proportional to the potential difference
 amp of current flowing through it**
 
 ### Definition of Potential Difference
+
 The potential difference between two points is the amount of energy transformed
 when one coulomb of charge is moved between the two points.
 
 ### UK mains voltage
+
 230V
 
 ### Power and energy transferred
+
 Energy transferred = Power × time
 
 energy transformed by a component, $E = VI \times t$
 
 ### Ohmic conductors
+
 Anything which conducts electricity and obeys Ohm's law is called an ohmic
 conductor.
 
 ### Kirchhoff's Laws
 
 #### First Law
+
 At any junction in a circuit the sum of the current flowing into the junction is equal to the sum of the current flowing away from it.
 
 #### Second Law
+
 In any complete "loop" of a circuit the sum of p.d.'s equals the source p.d.
