@@ -51,6 +51,12 @@
     - [Kirchhoff's Laws](#kirchhoffs-laws)
       - [First Law](#first-law)
       - [Second Law](#second-law)
+    - [Calculating resistance of a circuit](#calculating-resistance-of-a-circuit)
+      - [Series](#series)
+      - [Parallel](#parallel)
+    - [Thermistor](#thermistor)
+    - [LDR (Light Dependent Resistor)](#ldr-light-dependent-resistor)
+    - [Electromotive force](#electromotive-force)
 <!--toc:end-->
 
 ## Mechanics
@@ -394,3 +400,26 @@ At any junction in a circuit the sum of the current flowing into the junction is
 #### Second Law
 
 In any complete "loop" of a circuit the sum of p.d.'s equals the source p.d.
+
+### Calculating resistance of a circuit
+
+#### Series
+$$
+R_{T}=R_{1}+R_{2}+R_{3}
+$$
+
+#### Parallel
+$$
+\frac{1}{R_{T}}=\frac{1}{R_{1}}+\frac{1}{R_{2}}+\frac{1}{R_{3}}
+$$
+
+### Thermistor
+As the temperature increases, the resistance of a thermistor decreases.
+
+### LDR (Light Dependent Resistor)
+As the light intensity increases, the resistance of an LDR decreases.
+
+### Electromotive force
+The amount of energy per unit charge produced inside a cell
+or
+The voltage across the terminals of a cell when no current is flowing through it.
