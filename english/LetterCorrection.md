@@ -1,18 +1,13 @@
-<p dir="rtl">32 Smith Street
+<p dir="rtl">32 Smith Street<br>
+Preston<br>
+PR1 5GR<br>
+5th September 2022</p>
 
-Preston
+Preston News<br>
+145 High Street<br>
+Preston<br>
+PR6 9TT<br>
 
-PR1 5GR
-
-5^(th) September 2022</p>
-
-Preston News
-
-145 High Street
-
-Preston
-
-PR6 9TT
 
 Dear Sir or Madam
 
