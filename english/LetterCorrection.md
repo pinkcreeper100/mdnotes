@@ -17,12 +17,12 @@ drinking age.
 
 I believe this is a good idea because too many accidents happen because of
 drink-driving. In the period 2010-2020, there was a total of 86420 casualties
-in the UK[$^{1}$](https://www.quittance.co.uk/uk-drink-driving-statistics).
+in the UK [1](https://www.quittance.co.uk/uk-drink-driving-statistics) .
 
 Secondly, it is a good idea because drinking too much can damage your
 health. As alcohol is a causal factor in more than 60 medical conditions, including: 
 mouth, throat, stomach, liver and breast cancers; high blood pressure, 
-cirrhosis of the liver; and depression[$^{2}$](https://www.gov.uk/government/publications/the-public-health-burden-of-alcohol-evidence-review). 
+cirrhosis of the liver; and depression [2](https://www.gov.uk/government/publications/the-public-health-burden-of-alcohol-evidence-review) .
 
 However, I also think that it is down to choice, because if people choose 
 to drink at 18 then they will do!
