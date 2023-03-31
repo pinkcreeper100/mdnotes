@@ -57,57 +57,61 @@
     - [Thermistor](#thermistor)
     - [LDR (Light Dependent Resistor)](#ldr-light-dependent-resistor)
     - [Electromotive force](#electromotive-force)
+    - [Terminal Potential Difference](#terminal-potential-difference)
 <!--toc:end-->
 
 ## Mechanics
 
 ### Forces in equilibrium
 
-- If it is possible to draw a closed polygon (of three or more forces) then the system of forces must be in equilibrium
+- If it is possible to draw a closed polygon (of three or more forces) then the
+system of forces must be in equilibrium
 
 ### Centre of mass
 
-- **The centre of mass is the point through which all the weight of an object is deemed to act.**
+- **The centre of mass is the point through which all the weight of an object is
+deemed to act.**
 
 ### Moments
 
-- A moment is defined as a force, $F$, multiplied by the perpendicular distance, $d$, from the *line of action* of the force to the pivot
+- A moment is defined as a force, $F$, multiplied by the perpendicular distance,
+$d$, from the *line of action* of the force to the pivot
 
 ### The Principle of Moments
 
-For a system to be in **equilibrium**, the **total clockwise moments**
-about a point must equal the **total anticlockwise moments**
-about the same point.
+For a system to be in **equilibrium**, the **total clockwise moments** about a
+point must equal the **total anticlockwise moments** about the same point.
 
 ### Rules for equilibrium
 
-**For a system or body to be in equilibrium,**
-
-The resultant force must be zero [If there are three forces, the sum must form a closed triangle]
-The resultant moment must be zero [The total of the moments about any point must equal zero]
+**For a system or body to be in equilibrium,** The resultant force must be zero
+[If there are three forces, the sum must form a closed triangle] The resultant
+moment must be zero [The total of the moments about any point must equal zero]
 
 ### Couples
 
-**A couple is defined as being a pair of equal and opposite forces acting on a body, but not along the same line of action.**
+**A couple is defined as being a pair of equal and opposite forces acting on a
+body, but not along the same line of action.**
 
 ### Motion Graphs
 
-- **Displacement** is distance from a fixed point **in a given direction**. (Vector quantity)
+- **Displacement** is distance from a fixed point **in a given direction**.
+(Vector quantity)
 - **Velocity** is rate of change of displacement. (Vector quantity)
 - **Acceleration** is the rate of change of velocity. (Vector quantity)
 RATE means the change in something each second
 
 ### Newton's Laws of Motion
 
-**Newton’s 1st Law of Motion** states that if no **resultant** force acts on an
-object, then it will either remain at rest, or continue moving with
-constant velocity.
+**Newton’s 1st Law of Motion** states that if no **resultant** force acts on
+an object, then it will either remain at rest, or continue moving with constant
+velocity.
 
-**Newton’s 2nd Law of Motion** is the equation $F = ma$
-Force is measured in newtons (N), mass in kg and acceleration in $ms^{-2}$.
+**Newton’s 2nd Law of Motion** is the equation $F = ma$. Force is measured in
+newtons (N), mass in kg and acceleration in $ms^{-2}$.
 
-Newton’s 3rd Law of Motion is that when two objects interact, they exert an equal and
-opposite force on each other.
+Newton’s 3rd Law of Motion is that when two objects interact, they exert an
+equal and opposite force on each other.
 
 ### Work Done
 
@@ -115,94 +119,106 @@ Work Done is Energy transferred by means of a force
 
 ### Newton's Second Law revisited
 
-The **impulse** of a force is defined as the force x the time for which the force
-acts and is equal to the change in momentum of the object in response to the force.
+The **impulse** of a force is defined as the force x the time for which the
+force acts and is equal to the change in momentum of the object in response to
+the force.
 
 $F Δt = Δ(mv)$
 
 ### Force-time graphs
 
-The area under a force-time graph = $F * t$ = change of momentum or impulse of the force.
+The area under a force-time graph = $F * t$ = change of momentum or impulse of
+the force.
 
 ### Elastic and Inelastic Collisions
 
 An **elastic** collision is one where the is **no loss of kinetic energy**.
-Total kinetic energy before the collision = total kinetic energy before the collision.
+Total kinetic energy before the collision = total kinetic energy before the
+collision.
 
 An **inelastic** collision is one where there is some loss of kinetic energy.
-Momentum will be conserved, as always, but **some of the kinetic energy
-has been converted to other forms, usually heat.
+Momentum will be conserved, as always, but **some of the kinetic energy has been
+converted to other forms, usually heat.
 
-In a **totally inelastic** collision, the colliding objects stick together after colliding.
+In a **totally inelastic** collision, the colliding objects stick together after
+colliding.
 
 ## Practical Skills
 
 ### Types of error in measurements
 
-**Random errors** are caused by unpredictable effects, such as small amounts of friction,
-thermal vibrations, draughts, and especially human judgement and reaction times.
-Random errors are (as the name suggests) always different when measurements are
-repeated, and repeated measurements are used to reduce their effect.
+**Random errors** are caused by unpredictable effects, such as small amounts
+of friction, thermal vibrations, draughts, and especially human judgement and
+reaction times. Random errors are (as the name suggests) always different when
+measurements are repeated, and repeated measurements are used to reduce their
+effect.
 
-**Systematic errors** are caused by inaccuracies in the measuring system, such as a
-calibration error, zero error, or an effect that cannot readily be measured like heat
-losses. Systematic errors do ***not*** cause a variation when measurements are repeated,
-and there is nothing that can be done to reduce their effect without re-designing the
-experiment to an extent. They are often difficult to spot, but can sometimes be seen by
-looking at the intercept of a gradient
+**Systematic errors** are caused by inaccuracies in the measuring system,
+such as a calibration error, zero error, or an effect that cannot readily be
+measured like heat losses. Systematic errors do ***not*** cause a variation
+when measurements are repeated, and there is nothing that can be done to reduce
+their effect without re-designing the experiment to an extent. They are often
+difficult to spot, but can sometimes be seen by looking at the intercept of
+a gradient.
 
 ### Terms used in connection with experiments and experimental error
 
-**Precision** is the extent to which measurements agree with each other - i.e. the lack of
-significant variation in readings.
+**Precision** is the extent to which measurements agree with each other - i.e.
+the lack of significant variation in readings.
 
-**Accuracy** is how close a measurement is to the true value - i.e. how close to the result of
-an "ideal experiment".
+**Accuracy** is how close a measurement is to the true value - i.e. how close to
+the result of an "ideal experiment".
 
-**Repeatability** - A measurement is repeatable if the original experimenter repeats the
-investigation using same method and equipment and obtains the same results.
+**Repeatability** - A measurement is repeatable if the original experimenter
+repeats the investigation using same method and equipment and obtains the same
+results.
 
-**Reproducibility** - A measurement is reproducible if the investigation is repeated by
-another person, or by using different equipment or techniques, and the same results are
-obtained.
+**Reproducibility** - A measurement is reproducible if the investigation is
+repeated by another person, or by using different equipment or techniques, and
+the same results are obtained.
 
-**Resolution** - the resolution of an instrument is the smallest difference in readings it can
-show.
+**Resolution** - the resolution of an instrument is the smallest difference in
+readings it can show.
 
-**Absolute** uncertainty is the interval within which the true value can be expected to lie e.g.
-the temperature is $20 °C \pm 2 °C$. Should always be expressed with an appropriate unit.
+**Absolute** uncertainty is the interval within which the true value can be
+expected to lie e.g. the temperature is $20 °C \pm 2 °C$. Should always be
+expressed with an appropriate unit.
 
-**Fractional uncertainty** is given by $\frac{\textnormal{Absolute Uncertainty}}{\textnormal{Quantity}}$
+**Fractional uncertainty** is given by $\frac{\textnormal{Absolute Uncertainty}}
+{\textnormal{Quantity}}$
 
-**Percentage uncertainty** is given by $\text{fractional uncertainty} \times 100%$.
+**Percentage uncertainty** is given by $\text{Fractional Uncertainty} \times
+100%$.
 
 ## Materials
 
 ### Hooke's Law
 
-The extension produced by a force in a wire or spring is
-directly proportional to the force applied, up to the limit of
-proportionality.
+The extension produced by a force in a wire or spring is directly proportional
+to the force applied, up to the limit of proportionality.
 
 ### Material Properties
 
-**Elastic behaviour** is when a sample that has been deformed by a force returns to its original shape and size
-when the force causing the deformation is removed.
+**Elastic behaviour** is when a sample that has been deformed by a force
+returns to its original shape and size when the force causing the deformation
+is removed.
 
-**Plastic behaviour** is the opposite of an elastic behaviour, when the deforming force is removed the material
-does not return to its original shape/size.
+**Plastic behaviour** is the opposite of an elastic behaviour, when the
+deforming force is removed the material does not return to its original shape/
+size.
 
-**Elastic Limit** is the maximum amount that a material can be stretched by a force, and still return to its original
-length when the force is removed
+**Elastic Limit** is the maximum amount that a material can be stretched by a
+force, and still return to its original length when the force is removed
 
-**Yield Point:** is the point at which the material extends considerably with no (or a very small) increase in
-force. The extension is permanent.
+**Yield Point:** is the point at which the material extends considerably with no
+(or a very small) increase in force. The extension is permanent.
 
-**Ductile:** A ductile material can be easily and permanently stretched; e.g. drawn out into wires like copper.
+**Ductile:** A ductile material can be easily and permanently stretched; e.g.
+drawn out into wires like copper.
 
-A **Brittle** material **fractures** very soon after the elastic limit, with little or no plastic deformation. These
-materials tend to be very strong under compression but weak under tension. E.g. concrete, ceramic, brick,
-glass
+A **Brittle** material **fractures** very soon after the elastic limit, with
+little or no plastic deformation. These materials tend to be very strong under
+compression but weak under tension. E.g. concrete, ceramic, brick, glass
 
 ### Strain Energy
 
@@ -219,14 +235,13 @@ The diameter of the atom is about $1 \times 10^{-10}$
 
 ### Isotopes
 
-Isotopes of an element have the same number of protons
-but a different number of neutrons and therefore different
-nucleon number.
+Isotopes of an element have the same number of protons but a different number of
+neutrons and therefore different nucleon number.
 
 ### Energy and Mass
 
-1 electron volt is the Kinetic Energy acquired by an electron when accelerated by a
-potential difference 1 Volt.
+1 electron volt is the Kinetic Energy acquired by an electron when accelerated
+by a potential difference 1 Volt.
 
 ### Particles and Antiparticles
 
@@ -240,18 +255,18 @@ in about 10 minutes.
 
 ### Particle-Antiparticle Annihilation
 
-This is the conversion of the mass of a particle and its antiparticle to energy in the
-form of a pair of photons of EM radiation.
+This is the conversion of the mass of a particle and its antiparticle to energy
+in the form of a pair of photons of EM radiation.
 
 ### Pair Production
 
-This is the process in which a photon of EM radiation ceases to exist, creating a
-particle and its antiparticle pair in its place.
+This is the process in which a photon of EM radiation ceases to exist, creating
+a particle and its antiparticle pair in its place.
 
 ### Neutrinos
 
-The neutrino was originally hypothesised because energy did not appear to be conserved
-during beta decay
+The neutrino was originally hypothesised because energy did not appear to be
+conserved during beta decay
 
 ### Radioactive Decay
 
@@ -262,19 +277,17 @@ neutrons.
 
 #### beta-minus decay
 
-A nucleus with too many neutrons for its number of protons can undergo
-beta-minus decay to improve its p to n ratio.
-A neutron in the nucleus changes into a proton, an electron and an anti-
-neutrino. The beta-minus particle is the electron which is "flung out" of the nucleus
-together with the anti-neutrino
+A nucleus with too many neutrons for its number of protons can undergo beta-
+minus decay to improve its p to n ratio. A neutron in the nucleus changes into
+a proton, an electron and an anti- neutrino. The beta-minus particle is the
+electron which is "flung out" of the nucleus together with the anti-neutrino
 
 #### beta-plus decay
 
 A nucleus with too few neutrons for its number of protons can undergo beta-
-plus decay to improve its p to n ratio.
-A proton in the nucleus changes into a neutron, a positron and a neutrino.
-The beta-plus particle is the positron which is "flung out" of the nucleus together
-with the neutrino
+plus decay to improve its p to n ratio. A proton in the nucleus changes into a
+neutron, a positron and a neutrino. The beta-plus particle is the positron which
+is "flung out" of the nucleus together with the neutrino
 
 ### Fundamental forces
 
@@ -298,8 +311,8 @@ with the neutrino
 
 ### Quarks
 
-Quarks are fundamental particles which combine to make **hadrons**. Hadrons are particles
-which are subject to the strong nuclear force.
+Quarks are fundamental particles which combine to make **hadrons**. Hadrons are
+particles which are subject to the strong nuclear force.
 
 ### Hadrons
 
@@ -333,18 +346,19 @@ A **baryon** is a combination of three quarks or three antiquarks
 
 ### Hadrons 2
 
-- All baryons have Baryon number = 1, all antibaryons have Baryon number = - 1 and
-  all mesons, and anti-mesons have Baryon number = 0.
+- All baryons have Baryon number = 1, all antibaryons have Baryon number = - 1
+and all mesons, and anti-mesons have Baryon number = 0. 
 - Particles and their antiparticles have equal and opposite values of strangeness.
-- The proton is the only baryon which is stable. All other baryons decay to protons,
-  either directly or indirectly. Mesons decay, either directly or indirectly, into photons or
-  leptons.
+- The proton is the only baryon which is stable. All other baryons decay to
+protons, either directly or indirectly. Mesons decay, either directly or
+indirectly, into photons or leptons.
 
 ### Allowed interactions
 
-- Total charge before = total charge after (Conservation of Charge)
-- Total baryon number before = total baryon number after (conservation of Baryon Number)
-- Total lepton number before = total lepton number after (conservation of lepton number)
+- Total charge before = total charge after (Conservation of Charge) Total baryon
+- number before = total baryon number after (conservation of Baryon Number)
+- Total lepton number before = total lepton number after (conservation of lepton
+- number)
 
 **ALL reactions obey these three conservation laws**
 
@@ -358,15 +372,14 @@ is NOT always obeyed during weak interaction**
 ### Electron flow and conventional current
 
 When doing electrical examples remember that although electricity is often a
-flow of electrons from the negative end of a battery to the positive end,
-but current is defined as the flow of positive charge, so conventional current
-is actually in the opposite direction to the electron flow!
+flow of electrons from the negative end of a battery to the positive end, but
+current is defined as the flow of positive charge, so conventional current is
+actually in the opposite direction to the electron flow!
 
 ### Ohm's law
 
-The current flowing through a metallic conductor is
-Directly proportional to the potential difference
-(p.D) applied across it (at constant temperature)
+The current flowing through a metallic conductor is Directly proportional to the
+potential difference (p.D) applied across it (at constant temperature)
 
 **The potential difference required across a component per
 amp of current flowing through it**
@@ -395,7 +408,8 @@ conductor.
 
 #### First Law
 
-At any junction in a circuit the sum of the current flowing into the junction is equal to the sum of the current flowing away from it.
+At any junction in a circuit the sum of the current flowing into the junction is
+equal to the sum of the current flowing away from it.
 
 #### Second Law
 
@@ -404,22 +418,38 @@ In any complete "loop" of a circuit the sum of p.d.'s equals the source p.d.
 ### Calculating resistance of a circuit
 
 #### Series
+
 $$
 R_{T}=R_{1}+R_{2}+R_{3}
 $$
 
 #### Parallel
+
 $$
 \frac{1}{R_{T}}=\frac{1}{R_{1}}+\frac{1}{R_{2}}+\frac{1}{R_{3}}
 $$
 
 ### Thermistor
+
 As the temperature increases, the resistance of a thermistor decreases.
 
 ### LDR (Light Dependent Resistor)
+
 As the light intensity increases, the resistance of an LDR decreases.
 
 ### Electromotive force
-The amount of energy per unit charge produced inside a cell
-or
-The voltage across the terminals of a cell when no current is flowing through it.
+
+The amount of energy per unit charge produced inside a cell or The voltage
+across the terminals of a cell when no current is flowing through it.
+
+### Terminal Potential Difference
+
+**T.P.D (V) is the voltage measured across the terminals of a cell** (this will
+be less than the cell's EMF when it has **current** flowing through it)
+
+## Waves
+
+### Longitudinal Waves
+
+**Longitudinal** waves are waves in which the direction of **oscillation** of
+the particles is **parallel** to the direction of **energy transfer**.
